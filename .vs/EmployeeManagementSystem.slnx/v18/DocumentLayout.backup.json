@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# final project\\EmployeeManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6F9B05-FB4B-45ED-9269-DDB6BE99A8E1}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|D:\\c# final project\\EmployeeManagementSystem\\employeemanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6F9B05-FB4B-45ED-9269-DDB6BE99A8E1}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6F9B05-FB4B-45ED-9269-DDB6BE99A8E1}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|D:\\c# final project\\EmployeeManagementSystem\\employeemanagementsystem\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC6F9B05-FB4B-45ED-9269-DDB6BE99A8E1}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6F9B05-FB4B-45ED-9269-DDB6BE99A8E1}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|D:\\c# final project\\EmployeeManagementSystem\\employeemanagementsystem\\splash.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6F9B05-FB4B-45ED-9269-DDB6BE99A8E1}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\splash.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6F9B05-FB4B-45ED-9269-DDB6BE99A8E1}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|d:\\c# final project\\employeemanagementsystem\\employeemanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC6F9B05-FB4B-45ED-9269-DDB6BE99A8E1}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\c# final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\Login.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Login.cs",
+              "ToolTip": "D:\\c# final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\Login.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T04:32:41.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\c# final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\Login.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Login.cs",
+              "ToolTip": "D:\\c# final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\Login.cs [Design]",
+              "RelativeToolTip": "EmployeeManagementSystem\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T04:33:21.37Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Splash.Designer.cs",
+              "DocumentMoniker": "D:\\c# final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\Splash.Designer.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Splash.Designer.cs",
+              "ToolTip": "D:\\c# final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\Splash.Designer.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Splash.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T04:31:02.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Splash.cs [Design]",
+              "DocumentMoniker": "D:\\c# final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\Splash.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Splash.cs",
+              "ToolTip": "D:\\c# final project\\EmployeeManagementSystem\\EmployeeManagementSystem\\Splash.cs [Design]",
+              "RelativeToolTip": "EmployeeManagementSystem\\Splash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T11:23:26.588Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
